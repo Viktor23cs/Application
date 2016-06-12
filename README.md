@@ -1,2 +1,1 @@
-"# Application" 
-Application
+Simple app with database connection
